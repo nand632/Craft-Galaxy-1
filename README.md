@@ -67,3 +67,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+
+ARCards is a product that offers an interactive-fun based learning products.    It merges learning elements with that of technology popularly known as augmented reality to make learning entertaining and thereby to generate curiosity and interest among children.By adding fun elements like 3D images with different animations, sound effects & proper pronunciation, with upcoming new features like Phonics, games & Q&A we try to generate curiosity among kids & helps them to remember things easily.
